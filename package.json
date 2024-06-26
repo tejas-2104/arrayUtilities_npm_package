@@ -1,0 +1,23 @@
+{
+  "name": "arrayutilitiestejas",
+  "version": "1.0.0",
+  "description": "This package contains array utilities ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejas-2104/arrayUtilities_npm_package.git"
+  },
+  "keywords": [
+    "arrayUtilities"
+  ],
+  "author": "Tejas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejas-2104/arrayUtilities_npm_package/issues"
+  },
+  "homepage": "https://github.com/tejas-2104/arrayUtilities_npm_package#readme"
+}
